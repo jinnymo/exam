@@ -12,7 +12,7 @@
 <body>
 
 <div class="container mt-5">
-  <h2 class="text-center mb-4">게시글 작성</h2>
+  <h2 class="text-center mb-4">게시글 수정</h2>
   <div class="card">
     <div class="card-body">
       <form action="${pageContext.request.contextPath}/updateById" method="post">
